@@ -1,5 +1,5 @@
 {
-	"name": "VS Code",
+	"name": "test",
 	"build": {
 		"dockerfile": "Dockerfile"
 	},
